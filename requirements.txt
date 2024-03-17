@@ -1,0 +1,3 @@
+stable-baselines3[all]
+gymnasium[all]
+gymnasium[accept-rom-license]
